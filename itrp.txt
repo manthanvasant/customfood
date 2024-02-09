@@ -1,0 +1,2 @@
+Version: true
+CustomMessage: ❗[DJ-Custom Food Prop]❗ Script is updated - You are using the latest versione.
